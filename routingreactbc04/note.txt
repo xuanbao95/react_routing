@@ -1,0 +1,11 @@
+1- react là thư viện của web = js phiên bản es6 dựa trên cấu trúc component
+2- xử lý sư kiện , binding dử liệu trong react
+3- quản lý state, state là gì? props là gì
+=>props là phương thức dùng để truyền dử liệu qua lại giữa component cha và component, redux
+4- sử dụng thư viện redux để quản lý state,midlware (đối với các action api cần sử dụng): component, reducer, action
+5- lấy dữ liệu input từ ng dùng (form, validation),usrFomik,Yup
+6- lifecycle(didmount,didupdate,willunMount,pureComponent)
+   hook(useState,useSelector,useDispatch)
+7- Routing react(sử dụng thẻ navLink, chia router, cấu hình template)
+8- sử dụng các thử viện Antd, marterial ui
+9- Authorization :định danh ng dùng qua header của api

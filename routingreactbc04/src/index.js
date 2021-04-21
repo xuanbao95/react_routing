@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 //cấu hình redux
 import { Provider } from 'react-redux'
 import { store } from './redux/config';
+import 'antd/dist/antd.css';
 ReactDOM.render(
   <Provider store={store}>
     <App />
